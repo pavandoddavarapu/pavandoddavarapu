@@ -128,7 +128,7 @@ print(me.life_motto())
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavandoddavarapu&bg_color=0d1117&color=00d4ff&line=6e40c9&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavandoddavarapu&bg_color=0d1117&color=00d4ff&line=6e40c9&point=00d4ff&area=true&area_color=6e40c9&hide_border=true&radius=8" width="100%" />
 </div>
 
 ---
