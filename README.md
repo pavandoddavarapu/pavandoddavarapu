@@ -16,7 +16,7 @@
   <a href="https://github.com/pavandoddavarapu">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/pavandoddavarapu7">
+  <a href="https://leetcode.com/u/pavandodddavarapu7/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/pavandoddavarapu7">
